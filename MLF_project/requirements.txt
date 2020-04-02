@@ -1,0 +1,10 @@
+numpy
+pandas
+urllib3
+requests
+argparse
+colored
+cprint
+colorama
+scikit-learn
+seaborn
